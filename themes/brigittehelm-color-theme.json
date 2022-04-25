@@ -3,14 +3,14 @@
     "type": "light",
     "semanticHighlighting": true,
     "colors": {
-        "editor.background": "#c7c5c1",
+        "editor.background": "#c9c3ba",
         "editor.foreground": "#000000",
         "editor.lineHighlightBackground": "#d9d6d0",
         "editorGutter.background": "#B4B2B0",
         "editorWhitespace.foreground": "#808080",
 
-        "editor.foldBackground": "#d09500",
-        "editor.selectionBackground": "#f0c440",
+        "editor.foldBackground": "#c0bbb0",
+        "editor.selectionBackground": "#dbcea6",
         "editor.selectionHighlightBackground": "#f0e4d0",
 
         "editorIndentGuide.background": "#606060",
@@ -21,18 +21,29 @@
         "editorSuggestWidget.foreground": "#000000",
         "editorSuggestWidget.selectedBackground": "#f0b240",
 
+        "tab.inactiveBackground": "#dddad5",
+        "titleBar.inactiveBackground": "#272624",
+        "titleBar.activeBackground": "#272624",
+        "titleBar.inactiveForeground": "#dbac6d",
+        "titleBar.activeForeground": "#dbac6d",
+        "editorLineNumber.foreground": "#8a3700",
+        "editorLineNumber.activeForeground": "#b87536",
+
+        "activityBar.background": "#272624",
+        "activityBar.foreground": "#dbac6d",
+
         "badge.background": "#f0b800",
         "badge.foreground": "#FFFFFF",
         "breadcrumb.focusForeground": "#ffcc00",
         "breadcrumb.foreground": "#000000",
         "list.hoverBackground": "#B0B0B0",
-        "minimap.background": "#B4B2B0",
+        "minimap.background": "#b4aea7",
         "menu.foreground": "#000000",
         "sideBarSectionHeader.background": "#b2aea8",
-        "sideBar.background": "#cdccc7",
+        "sideBar.background": "#c9c2ba",
         "sideBar.foreground": "#000000",
         "tab.activeForeground": "#000000",
-        "tab.unfocusedActiveBackground": "#E0E0E0",
+        "tab.unfocusedActiveBackground": "#e0e0e0",
         "tree.indentGuidesStroke": "#000000",
 
         "editor.findMatchBackground": "#FFFF00",
@@ -210,7 +221,7 @@
                 "punctuation.definition.markdown", // 
             ],
             "settings": {
-                "foreground": "#b02c00",
+                "foreground": "#b82005",
                 "fontStyle": "bold"
             }
         },
@@ -264,7 +275,7 @@
                 "punctuation.separator.delimiter",
             ],
             "settings": {
-                "foreground": "#d07600",
+                "foreground": "#000000",
                 "fontStyle": "bold"
             }
         },
@@ -276,7 +287,7 @@
                 "markup.inline.raw" // `*` 
             ],
             "settings": {
-                "foreground": "#E03000",
+                "foreground": "#af8f00",
             }
         },
         {
