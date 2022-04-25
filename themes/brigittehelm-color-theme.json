@@ -1,11 +1,11 @@
 {
-    "name": "graygraygray",
+    "name": "briggitehelm",
     "type": "light",
     "semanticHighlighting": true,
     "colors": {
-        "editor.background": "#c7bcb0",
+        "editor.background": "#c7c5c1",
         "editor.foreground": "#000000",
-        "editor.lineHighlightBackground": "#f0e7d0",
+        "editor.lineHighlightBackground": "#d9d6d0",
         "editorGutter.background": "#B4B2B0",
         "editorWhitespace.foreground": "#808080",
 
@@ -28,8 +28,8 @@
         "list.hoverBackground": "#B0B0B0",
         "minimap.background": "#B4B2B0",
         "menu.foreground": "#000000",
-        "sideBarSectionHeader.background": "#C0C0D0",
-        "sideBar.background": "#D4D2D0",
+        "sideBarSectionHeader.background": "#b2aea8",
+        "sideBar.background": "#cdccc7",
         "sideBar.foreground": "#000000",
         "tab.activeForeground": "#000000",
         "tab.unfocusedActiveBackground": "#E0E0E0",
@@ -37,14 +37,14 @@
 
         "editor.findMatchBackground": "#FFFF00",
         "editor.findMatchHighlightBackground": "#F0F0B0",
-        "editor.findRangeHighlightBackground": "#D0E0F0",
+        "editor.findRangeHighlightBackground": "#f0ead0",
         "editorOverviewRuler.findMatchForeground": "#FFFF00",
         "minimap.findMatchHighlight": "#FFFF00",
 
-        "contrastActiveBorder": "#ffb300",
+        "contrastActiveBorder": "#000000",
         "contrastBorder": "#000000",
         "editorGroup.border": "#000000",
-        "focusBorder": "#ffaa00",
+        "focusBorder": "#000000",
         "panel.border": "#000000",
         "tab.border": "#000000",
         "titleBar.border": "#000000",
@@ -246,7 +246,7 @@
                 "punctuation.definition.tag",
             ],
             "settings": {
-                "foreground": "#ffbb00",
+                "foreground": "#000000",
                 "fontStyle": "bold"
             }
         },
