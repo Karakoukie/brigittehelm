@@ -1,0 +1,35 @@
+{
+    "name": "brigittehelm",
+    "displayName": "Brigitte Helm",
+    "description": "A vintage color theme for Visual Studio Code",
+    "version": "0.0.1",
+    "publisher": "T.Muller",
+    "engines": {
+        "vscode": "^1.25.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "color-theme",
+        "gray"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "brigittehelm",
+                "uiTheme": "vs",
+                "path": "./themes/brigittehelm-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+    },
+    "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#C4C2C0",
+        "theme": "light"
+    }
+}
